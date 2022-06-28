@@ -3,8 +3,8 @@ package employeewage;
 public class EmployeeWageBuilder {
 
 	public static void main(String[] args) {
-		int PartTime=1;
-        int FullTime=2;
+        int FullTime=1;
+        int PartTime=2;
         int wagePerHour=20;
         int workingHrs=0;
         int empWage=0;
