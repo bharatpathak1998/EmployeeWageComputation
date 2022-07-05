@@ -5,7 +5,7 @@ public class EmployeeWageBuilder {
 	public static final int FullTime=1;
 	public static final int PartTime=2;
 	public static final int wagePerHour=20;
-	public static final int NumOfWorkingDays=0;
+	public static final int NumOfWorkingDays=20;
 	public static final int MaxWorkingHrs=100;
 
 	public static void main(String[] args) {
